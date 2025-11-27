@@ -1,2 +1,2 @@
 # FAWA-IEHS
-Dataset of Frequency-Aware Probabilistic Assessment of Wind Admissibility in Integrated Electricity-Heat Systems
+Dataset of Weekly Frequency-Constrained Scheduling for Electricity-Heat Coupled Systems Against Wind Droughts
